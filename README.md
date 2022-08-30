@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Irving Delgado</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
-- 🌱 I’m currently learning **Full Stack Web Developing**
+- 🌱 I’m currently learning **Full Stack Web Development**
 
 - 📫 How to reach me **rvngdelgado@gmail.com**
 
